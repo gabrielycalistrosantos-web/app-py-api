@@ -26,5 +26,5 @@ Melhorias futuras:
 - Validação de dados;
 - Tratamento de erros;
 
-Gabriely Calistro
+Gabriely Calistro - 
 LinkedIn: www.linkedin.com/in/gabrielycalistro
