@@ -26,5 +26,8 @@ Melhorias futuras:
 - Validação de dados;
 - Tratamento de erros;
 
+Utilização de Postman para teste dos endpoints.
+  
+
 Gabriely Calistro - 
 LinkedIn: www.linkedin.com/in/gabrielycalistro
