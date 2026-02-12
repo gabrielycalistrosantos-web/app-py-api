@@ -1,0 +1,17 @@
+[ 
+    {
+        "autor": "J.R.R Tolkien",
+        "id": 1,
+        "titulo": "O senhor dos Anéis"
+    },
+    {
+        "id": 2,
+        "titulo": "A culpa é das estrelas",
+        "autor": "John Green"
+    },
+    {
+        "id": 3,
+        "titulo": "O menino do pijama listrado",
+        "autor": "John Boyne"
+    }
+]
